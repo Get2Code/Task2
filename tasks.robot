@@ -34,6 +34,8 @@ Open the robot order website
 Download the CSV File
     Download    https://robotsparebinindustries.com/orders.csv    overwrite=${True}
 
+# ToDo : Fill the Form and PDF Generation
+
 Fill the form
     [Arguments]    ${row}
     Click Button    OK
